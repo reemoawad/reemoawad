@@ -4,7 +4,7 @@ I'm a Computer Engineering student currentlylearning web programming.
 - ## Skills
  C, C++, Python, Verilog HDL, MIPS Assembly
 
--## 📫 How to reach me
+- ## 📫 How to reach me:
 reem.alzouby@gmail.com
 rawad3741@sdsu.edu
 
