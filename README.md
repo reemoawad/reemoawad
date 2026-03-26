@@ -1,57 +1,50 @@
-# Hi there, I'm Reem Awad 👋
+# Reem Awad
 
-**Computer Engineer** · San Diego State University (B.S.)
+**Computer Engineer** — building real-time embedded systems, AI-driven applications, and full-stack platforms.
 
-I'm a Computer Engineer specializing in software systems, embedded technologies, and AI-driven applications, with experience developing full-stack platforms, sensor-driven interfaces, and network simulation tools for real-time systems.
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** C, C++, Python, Verilog HDL, MIPS Assembly, SQL, JavaScript, HTML, CSS
-
-**Frameworks & Libraries:** React, Three.js, scikit-learn, XGBoost, Streamlit, Hugging Face
-
-**Embedded & Hardware:** Microcontrollers, Digital Logic, Circuit Analysis, Sensor Integration, BLE Communication
-
-**Developer Tools:** Git, GitHub, Linux, Xilinx Vivado, MATLAB, SolidWorks, Eclipse, Visual Studio, PuTTY
-
-**Concepts:** DSA, OOP, Real-Time Systems, Signal Processing, ML, REST APIs, NLP, Networking, Wireless Systems
+📍 San Diego, CA · [Portfolio](https://reemoawad.github.io/My-Portfolio) · [LinkedIn](https://linkedin.com/in/reem-awadd) · [Email](mailto:Reem.Alzouby@gmail.com)
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### 💍 EngineeRing – Real-Time BLE Gesture-Control Ring *(Software Lead)*
-Wearable smart ring enabling cursor navigation and gesture-based input via mid-air hand movements. Integrates IMU motion sensing with BLE for real-time computer interaction. Designed with rehabilitation applications in mind — supporting motor recovery and physical therapy.
-**Tech:** Python, BLE Communication, IMU Sensor Fusion, Real-Time Input Processing
+### 💍 [EngineeRing](https://reemoawad.github.io/My-Portfolio/#projects) — Real-Time BLE Gesture Ring
+> Sole software engineer. Designed and built the entire software stack for a wearable smart ring that translates IMU motion data into real-time OS-level cursor control over BLE.
 
-### 🛸 Drone Network Simulator
-Simulation environment for UAV network communication with up to 100 drones. Models physical, MAC, and routing layers under varying mobility and interference conditions.
-**Tech:** Python, CSMA/CA, OLSR Routing, Wireless Network Modeling
+IMU → sensor fusion → BLE → Python → OS input — end to end. Built for general HCI and rehabilitation use cases.
 
-### 🏥 Predicting Medical Insurance Costs with ML
-End-to-end ML regression pipeline predicting insurance costs from demographic and health features. XGBoost achieved R² ≈ 0.86. Deployed via Streamlit for real-time interactive predictions.
-**Tech:** Python, scikit-learn, XGBoost, Streamlit
-
-### 🤖 AI Doctor Web Application *(Full-Stack, Team Project)*
-Full-stack AI medical consultation platform with a React frontend and FastAPI backend. Implements user authentication, session-based interactions, and structured data models.
-**Tech:** FastAPI, React, REST APIs
+`Python` `BLE` `IMU / Sensor Fusion` `Real-Time Systems`
 
 ---
 
-## 💼 Experience
+### 🛸 [Drone Network Simulator](https://reemoawad.github.io/My-Portfolio/#projects) — UAV Communication Modeling
+> Simulated physical, MAC, and routing layers for networks of up to 100 UAVs. Implemented path loss, RSSI/SNR estimation, interference modeling, and packet delivery analysis.
 
-**IT Intern** — City of San Diego, IT Department *(Nov 2024 – Present)*
-Troubleshoot hardware, OS, network, and application-level issues. Support residents with digital services and contribute to secure system configuration.
-
-**Software Engineering Intern (AI/ML)** — Practical Solutions, Inc. *(May – Aug 2024)*
-Fine-tuned transformer-based models via Hugging Face, improving benchmark performance by 5–15%. Conducted hyperparameter tuning, regression testing, and defect tracking in an Agile team.
+`Python` `CSMA/CA` `OLSR Routing` `Wireless Systems`
 
 ---
 
-## 📫 Contact
+### 🏥 [ML Insurance Cost Predictor](https://reemoawad.github.io/My-Portfolio/#projects) — End-to-End ML Pipeline
+> Built and deployed a regression pipeline (XGBoost, R² ≈ 0.86) with a live Streamlit interface for real-time predictions.
 
-- 📧 [Reem.Alzouby@gmail.com](mailto:Reem.Alzouby@gmail.com)
-- 💼 [linkedin.com/in/reem-awadd](https://linkedin.com/in/reem-awadd)
-- 🌐 [Portfolio](https://reemoawad.github.io/My-Portfolio)
+`Python` `XGBoost` `scikit-learn` `Streamlit`
+
+---
+
+## Skills
+
+`C` `C++` `Python` `JavaScript` `SQL` `Verilog HDL`  
+`React` `FastAPI` `Hugging Face` `scikit-learn`  
+`BLE` `Embedded Systems` `Git` `Linux` `MATLAB`
+
+---
+
+## Experience
+
+**IT Intern** — City of San Diego *(Nov 2024 – Present)*  
+**Software Engineering Intern (AI/ML)** — Practical Solutions, Inc. *(May – Aug 2024)*  
+Fine-tuned transformer models via Hugging Face; 5–15% benchmark improvement across NLP tasks.
+
+---
+
+> 📌 **For recruiters:** See the full project writeups, architecture details, and demos at [reemoawad.github.io/My-Portfolio](https://reemoawad.github.io/My-Portfolio).
